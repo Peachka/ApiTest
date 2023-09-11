@@ -47,6 +47,5 @@ webView.loadUrl("https://www.craftbeer.com/styles/" + parseString(mostSimilarSty
 
 The interface is simple to interact with. If you want to read about Vegetable beer and unfotlunately description is absent it will provade you with a similar one, for example Chocolate beer.
 
-![api_app](https://github.com/Peachka/ApiTest/assets/76593453/53d16686-9f8d-42c9-8cef-fd6d927b887a)
-
+![api_app](https://github.com/Peachka/ApiTest/assets/76593453/9b695ae5-cbc5-4c7f-9c79-169608bb57a3)
 
