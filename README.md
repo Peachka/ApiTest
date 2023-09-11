@@ -45,7 +45,8 @@ To discover beer styles user can click on beer item, and second activity will cr
 webView.loadUrl("https://www.craftbeer.com/styles/" + parseString(mostSimilarStyle));
 ```
 
-The interface is simple to interact with. If you want to read about Vegetable beer and unfotlunately description is absent it will provade you with a similar one, for example Chocolate deer.
+The interface is simple to interact with. If you want to read about Vegetable beer and unfotlunately description is absent it will provade you with a similar one, for example Chocolate beer.
+
 ![api_app](https://github.com/Peachka/ApiTest/assets/76593453/53d16686-9f8d-42c9-8cef-fd6d927b887a)
 
 
